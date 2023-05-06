@@ -14,5 +14,8 @@ Ya instaladas las dependencias debes utilizar ciertos comando para interactuar c
         - node index.js read
 
     Registrar paciente:
-        - node index.js register Chente 1 Perro Negro Tos-de-perrera
+        - node index.js register Chente 1-año Perro Negro Tos-de-perrera
+        - node index.js register Benito 1-año Perro Blanco Otitis
+        - node index.js registerJulieta 6-años Perro Amarillo Moquillo
+
     ```
