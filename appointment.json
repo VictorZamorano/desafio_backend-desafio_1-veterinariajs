@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"animalName": "Benito",
+		"years": "1",
+		"animalType": "Perro",
+		"animalColor": "Blanco",
+		"disease": "Otitis"
+	},
+	{
+		"id": 2,
+		"animalName": "Julieta",
+		"years": "6",
+		"animalType": "Perro",
+		"animalColor": "Amarillo",
+		"disease": "Moquillo"
+	},
+	{
+		"id": "MLNDQuVESTdRJvwrgt3Ci",
+		"animalName": "Chente",
+		"years": "1",
+		"animalType": "Perro",
+		"animalColor": "Negro",
+		"disease": "Tos"
+	},
+	{
+		"id": "3RluOQycg3WN8cRbsMoSX",
+		"animalName": "Chente",
+		"years": "1",
+		"animalType": "Perro",
+		"animalColor": "Negro",
+		"disease": "Tos-de-perrera"
+	}
+]
