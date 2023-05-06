@@ -2,8 +2,7 @@ import { read, toRegister } from "./operations.js";
 
 import { argv } from "node:process";
 
-const [opt, aName, yearsOld, aType, aColor, diseases, deletePtnt] =
-	argv.slice(2);
+const [opt, aName, yearsOld, aType, aColor, diseases] = argv.slice(2);
 
 /* ¿Deseas saber como registrar? Escribe el argumento "how"*/
 if (opt === "how") {
